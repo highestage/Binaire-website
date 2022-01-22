@@ -19,9 +19,6 @@ var soundcloudContainerInnerStyle = {
 };
 
 var soundcloudContainerIcon = {
-
-
-
     width: "25%",
     backgroundColor: "transparent"
 }
